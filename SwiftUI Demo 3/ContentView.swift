@@ -10,7 +10,12 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Modify Me")
+        Text("asdassadasdsadsadasdasdasdasdasdasdasdsadadsadasdasd")
+            .fontWeight(.heavy)
+            .foregroundColor(Color.purple)
+                
+                .multilineTextAlignment(.center)
+            .padding(.horizontal, 50.0)
     }
 }
 
