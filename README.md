@@ -2,7 +2,7 @@
 Demo to learn how to use different costumize both texts and images
 
 ### Basic App Walk-through
-![alt text]()
+![alt text](https://github.com/abrusebas1997/Costumize-SwiftUI-elements/blob/master/Image%204-27-20%20at%202.57%20PM.jpg)
 
 ### Run Locally
 
